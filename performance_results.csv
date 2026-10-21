@@ -1,0 +1,5 @@
+Employee Count,Execution Time (seconds),Average Time per Employee (ms),Memory Before (MB),Memory After (MB),Memory Difference (MB)
+10,2e-06,0.000237,98.72,98.72,0.0
+100,9e-06,8.5e-05,98.77,98.77,0.0
+500,3.4e-05,6.8e-05,99.0,99.0,0.0
+1000,6.6e-05,6.6e-05,99.33,99.33,0.0
